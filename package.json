@@ -14,7 +14,6 @@
     "test": "jscs .",
     "prepublish": "babel ./lib/ -d ./bin/"
   },
-  "bin": "./bin/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/iainbrighton/airsonos.git"
