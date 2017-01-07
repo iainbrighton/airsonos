@@ -17,7 +17,7 @@
   "bin": "./bin/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stephen/airsonos.git"
+    "url": "https://github.com/iainbrighton/airsonos.git"
   },
   "dependencies": {
     "babel": "^5.8.21",
