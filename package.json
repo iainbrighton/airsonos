@@ -14,7 +14,6 @@
     "test": "jscs .",
     "prepublish": "babel ./lib/ -d ./bin/"
   },
-  "bin": "./bin/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/iainbrighton/airsonos.git"
@@ -26,7 +25,7 @@
     "ip": "1.1.0",
     "nicercast": "0.1.0",
     "nodetunes": "git://github.com/iainbrighton/nodetunes.git#master",
-    "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
+    "sonos": "git://github.com/paixaop/node-sonos#stephen-1.0.0"
   },
   "license": "MIT",
   "devDependencies": {
